@@ -1,9 +1,9 @@
 {
-  "name": "@brisberg/sample-express-sqlite",
-  "version": "0.1.0",
+"name": "@brisberg/sample-express-sqlite",
+"version": "0.1.0",
   "description": "Simpple Todo Application build with Express.js and Sqlite3",
-  "main": "lib/server.js",
-  "types": "lib/server.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "keywords": [
     "express",
     "sqlite",
@@ -11,7 +11,6 @@
   ],
   "author": "brisberg <brandon.risberg@gmail.com>",
   "license": "MIT",
-  "private": true,
   "repository": "https://github.com/brisberg/sample-express-sqlite.git",
   "bugs": {
     "url": "https://github.com/brisberg/sample-express-sqlite/issues"
